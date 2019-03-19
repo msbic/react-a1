@@ -1,0 +1,17 @@
+.table
+{
+    /* //min-width: 500px;
+    height:100vh; */
+}
+
+.paper
+{
+    margin-top: 2px;
+    overflow-x: auto;
+}
+
+.customCell
+ {
+    background-color: black;
+    color: white;
+ }

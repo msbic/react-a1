@@ -1,0 +1,21 @@
+.counter .icon
+{
+    /* min-height: 100px; */
+    font-size: "large";
+}
+
+.counterButton 
+{
+    background: transparent;
+    border: 0;
+    padding: 0;
+    outline: 0;
+    cursor: pointer;
+}
+
+.counter
+{
+    font-size: "xx-large";
+    /* vertical-align: center;
+    font-size: 48px; */
+}
